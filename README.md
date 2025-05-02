@@ -1,5 +1,3 @@
-# cse3150samelab9
-
 ## Overview
 This lab demonstrates how to build and traverse a circular linked list using C++ smart pointers:
 
